@@ -9,7 +9,7 @@ It's meant for learning, experimenting, and having fun with code.
 - Python 🐍
 - JavaScript 🌐
 - C / C++ ⚙️
-- Java ☕
+- Assembly ☕
 - HTML / CSS 🎨
 - Bash 🖥️
 - More coming soon...
