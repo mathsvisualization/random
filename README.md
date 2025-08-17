@@ -8,10 +8,9 @@ It's meant for learning, experimenting, and having fun with code.
 ## Languages Included
 - Python 🐍
 - JavaScript 🌐
+- HTML / CSS 🎨
 - C / C++ ⚙️
 - Assembly ☕
-- HTML / CSS 🎨
-- Bash 🖥️
 - More coming soon...
 
 ## Purpose
