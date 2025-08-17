@@ -26,8 +26,4 @@ It's meant for learning, experimenting, and having fun with code.
 3. Modify the code to experiment.
 4. Share your own code via pull requests.
 
-## Contribution
-Feel free to add your own random code in any language you love.  
-Just follow the folder structure and keep it clean.
-
 > **Note:** This repo is purely for education
